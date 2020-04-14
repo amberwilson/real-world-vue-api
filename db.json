@@ -1,7 +1,42 @@
 {
+  "people": [
+    {
+      "id": "ck90aegil0000qzrq1sfp3ym9",
+      "name": "Adam Jahr"
+    },
+    {
+      "id": "ck90ag5900000r7rqgopvcn8r",
+      "name": "Gregg Pollack"
+    },
+    {
+      "id": "ck90aecxk0000qvrq1afm8rin",
+      "name": "Beth Swanson"
+    },
+    {
+      "id": "ck90aemfj0000r3rqhv8t2i21",
+      "name": "Mary Gordon"
+    },
+    {
+      "id": "ck90hi7o000083g5svcvojlt2",
+      "name": "Opal Vega"
+    },
+    {
+      "id": "ck90hi7o100093g5sn190bczh",
+      "name": "Hira Travis"
+    },
+    {
+      "id": "ck90hi7o1000a3g5sqoeirvvk",
+      "name": "Kit Rogers"
+    },
+    {
+      "id": "ck90hi7o1000b3g5s406xc60u",
+      "name": "Leland Wilks"
+    }
+  ],
   "events": [
     {
-      "id": 1,
+      "id": "cuick9094yx50000qqrqa8af6426",
+      "createdAt": 1586871018389,
       "title": "Beach Cleanup",
       "date": "Aug 28 2018",
       "time": "10:00",
@@ -10,26 +45,15 @@
       "organizer": "Adam Jahr",
       "category": "sustainability",
       "attendees": [
-        {
-          "id": "abc123",
-          "name": "adam jahr"
-        },
-        {
-          "id": "def456",
-          "name": "gregg pollack"
-        },
-        {
-          "id": "ghi789",
-          "name": "beth swanson"
-        },
-        {
-          "id": "jkl101",
-          "name": "mary gordon"
-        }
+        "ck90aegil0000qzrq1sfp3ym9",
+        "ck90ag5900000r7rqgopvcn8r",
+        "ck90aecxk0000qvrq1afm8rin",
+        "ck90aemfj0000r3rqhv8t2i21"
       ]
     },
     {
-      "id": 2,
+      "id": "ck9094zk00000qsrq3pvhf56e",
+      "createdAt": 1586881018389,
       "title": "Park Cleanup",
       "date": "Nov 12 2018",
       "time": "12:00",
@@ -38,18 +62,13 @@
       "organizer": "Adam Jahr",
       "category": "nature",
       "attendees": [
-        {
-          "id": "ghi789",
-          "name": "Beth Swanson"
-        },
-        {
-          "id": "jkl101",
-          "name": "Mary Gordon"
-        }
+        "ck90aecxk0000qvrq1afm8rin",
+        "ck90aemfj0000r3rqhv8t2i21"
       ]
     },
     {
-      "id": 3,
+      "id": "ck9094z4y0000qrrqgu4da7qy",
+      "createdAt": 1586891018389,
       "title": "Pet Adoption Day",
       "date": "Dec 2 2018",
       "time": "12:00",
@@ -58,18 +77,9 @@
       "organizer": "Gregg Pollack",
       "category": "animal welfare",
       "attendees": [
-        {
-          "id": "abc123",
-          "name": "Adam Jahr"
-        },
-        {
-          "id": "ghi789",
-          "name": "Beth Swanson"
-        },
-        {
-          "id": "jkl101",
-          "name": "Mary Gordon"
-        }
+        "ck90aegil0000qzrq1sfp3ym9",
+        "ck90aecxk0000qvrq1afm8rin",
+        "ck90hi7o1000a3g5sqoeirvvk"
       ]
     }
   ]
